@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Kavinda</h1>
-<h3 align="center">A passionate ML and Python Develop in Sri Lanka</h3>
+<h3 align="center">Mechanical Engineering| AI & Automation Engineering | Machine Learning | Intelligent Systems in UAE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunkavinda95&label=Profile%20views&color=0e75b6&style=flat" alt="nipunkavinda95" /> </p>
 
