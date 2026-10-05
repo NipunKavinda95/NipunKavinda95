@@ -136,10 +136,10 @@
 
 <br><br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipunkavinda95&show_icons=true&locale=en" alt="nipunkavinda95" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nipunkavinda95&show_icons=true&locale=en" alt="Nipun Kavinda GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunkavinda95" alt="nipunkavinda95" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nipunkavinda95" alt="Nipun Kavinda GitHub Streak" />
 </p>
