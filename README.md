@@ -20,14 +20,14 @@
 
 - 🚀 I’m interested in building AI solutions that **bridge the gap between physical engineering systems and intelligent digital technologies**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nipun-kavinda-780515125/**
+- 📫 How to reach me **www.linkedin.com/in/nipun-kavinda**
 
 - ⚡ Fun fact **I combine mechanical and industrial engineering knowledge with AI to build practical solutions for real-world engineering and industrial problems!**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/nipun-kavinda-780515125" target="blank">
+<a href="www.linkedin.com/in/nipun-kavinda" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun-kavinda-780515125" height="30" width="40" />
 </a>
 
